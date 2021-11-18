@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TaskSex</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Ahmed Bahaa</string>
+    <string name="nav_header_subtitle">ahmeddev6@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel">Cancel</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="supporting_text">Do You Want Show Snack Bar ?</string>
+    <string name="title">Alert Dialog !!</string>
+    <string name="action_settings">Setting</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="search">Search</string>
+    <string name="start">start</string>
+    <string name="close">close</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="info">Info</string>
+    <string name="share">Share</string>
+    <string name="logout">Logout</string>
+    <string name="just_for_design">Just For Design</string>
+</resources>
